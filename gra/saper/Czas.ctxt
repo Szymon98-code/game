@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Czas
+comment1.params=plansza
+comment1.target=Czas(plansza)
+comment2.params=
+comment2.target=void\ run()
+comment3.params=
+comment3.target=void\ stoop()
+numComments=4
